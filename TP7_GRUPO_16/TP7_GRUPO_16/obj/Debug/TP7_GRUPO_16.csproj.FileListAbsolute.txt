@@ -1,0 +1,590 @@
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maximo\Downloads\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\artor\Desktop\TP7_GRUPO_16\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\Erika\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\belen\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\nahue\Downloads\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\TP7_GRUPO_16.pdb
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUP.A87179A0.Up2Date
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.dll
+C:\Users\Usuario\Desktop\TP7_GRUPO_16 (1)\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\TP7_GRUPO_16\obj\Debug\TP7_GRUPO_16.pdb

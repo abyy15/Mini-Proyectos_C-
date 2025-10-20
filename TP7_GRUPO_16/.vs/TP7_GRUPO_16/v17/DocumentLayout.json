@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10611768-F5ED-4951-8F4D-916BEFE8ADD3}|TP7_GRUPO_16\\TP7_GRUPO_16.csproj|c:\\users\\usuario\\desktop\\tp7_grupo_16 (1)\\tp7_grupo_16\\tp7_grupo_16\\tp7_grupo_16\\tp7_grupo_16\\tp7_grupo_16\\seleccionarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{10611768-F5ED-4951-8F4D-916BEFE8ADD3}|TP7_GRUPO_16\\TP7_GRUPO_16.csproj|solutionrelative:tp7_grupo_16\\seleccionarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10611768-F5ED-4951-8F4D-916BEFE8ADD3}|TP7_GRUPO_16\\TP7_GRUPO_16.csproj|C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\tp7_grupo_16\\seleccionarsucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10611768-F5ED-4951-8F4D-916BEFE8ADD3}|TP7_GRUPO_16\\TP7_GRUPO_16.csproj|solutionrelative:tp7_grupo_16\\seleccionarsucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10611768-F5ED-4951-8F4D-916BEFE8ADD3}|TP7_GRUPO_16\\TP7_GRUPO_16.csproj|C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\tp7_grupo_16\\gestionsucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10611768-F5ED-4951-8F4D-916BEFE8ADD3}|TP7_GRUPO_16\\TP7_GRUPO_16.csproj|solutionrelative:tp7_grupo_16\\gestionsucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10611768-F5ED-4951-8F4D-916BEFE8ADD3}|TP7_GRUPO_16\\TP7_GRUPO_16.csproj|C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\tp7_grupo_16\\sucursalesseleccionadas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10611768-F5ED-4951-8F4D-916BEFE8ADD3}|TP7_GRUPO_16\\TP7_GRUPO_16.csproj|solutionrelative:tp7_grupo_16\\sucursalesseleccionadas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SucursalesSeleccionadas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\SucursalesSeleccionadas.aspx.cs",
+              "RelativeDocumentMoniker": "TP7_GRUPO_16\\SucursalesSeleccionadas.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\SucursalesSeleccionadas.aspx.cs",
+              "RelativeToolTip": "TP7_GRUPO_16\\SucursalesSeleccionadas.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:26:38.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionSucursales.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\GestionSucursales.cs",
+              "RelativeDocumentMoniker": "TP7_GRUPO_16\\GestionSucursales.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\GestionSucursales.cs",
+              "RelativeToolTip": "TP7_GRUPO_16\\GestionSucursales.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:56:49.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleccionarSucursales.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\SeleccionarSucursales.aspx.cs",
+              "RelativeDocumentMoniker": "TP7_GRUPO_16\\SeleccionarSucursales.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\SeleccionarSucursales.aspx.cs",
+              "RelativeToolTip": "TP7_GRUPO_16\\SeleccionarSucursales.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T12:36:56.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleccionarSucursales.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\SeleccionarSucursales.aspx",
+              "RelativeDocumentMoniker": "TP7_GRUPO_16\\SeleccionarSucursales.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TP7_GRUPO_16 (1)\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\TP7_GRUPO_16\\SeleccionarSucursales.aspx",
+              "RelativeToolTip": "TP7_GRUPO_16\\SeleccionarSucursales.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-18T13:44:06.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
