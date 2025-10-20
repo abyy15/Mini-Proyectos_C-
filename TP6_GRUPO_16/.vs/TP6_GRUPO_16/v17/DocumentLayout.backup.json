@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|c:\\users\\erika\\downloads\\tp6_grupo_16\\tp6_grupo_16\\tp6_grupo_16\\seleccionarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|solutionrelative:tp6_grupo_16\\seleccionarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\tp6_grupo_16\\mostrarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|solutionrelative:tp6_grupo_16\\mostrarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\tp6_grupo_16\\mostrarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|solutionrelative:tp6_grupo_16\\mostrarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\tp6_grupo_16\\seleccionarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|solutionrelative:tp6_grupo_16\\seleccionarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\tp6_grupo_16\\ejercicio2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|solutionrelative:tp6_grupo_16\\ejercicio2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\tp6_grupo_16\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61A4A734-FDEF-4FF5-BE1D-615AC12C26B1}|TP6_GRUPO_16\\TP6_GRUPO_16.csproj|solutionrelative:tp6_grupo_16\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleccionarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\SeleccionarProductos.aspx",
+              "RelativeDocumentMoniker": "TP6_GRUPO_16\\SeleccionarProductos.aspx",
+              "ToolTip": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\SeleccionarProductos.aspx",
+              "RelativeToolTip": "TP6_GRUPO_16\\SeleccionarProductos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-06T20:32:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MostrarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\MostrarProductos.aspx",
+              "RelativeDocumentMoniker": "TP6_GRUPO_16\\MostrarProductos.aspx",
+              "ToolTip": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\MostrarProductos.aspx",
+              "RelativeToolTip": "TP6_GRUPO_16\\MostrarProductos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-10T15:50:28.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MostrarProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\MostrarProductos.aspx.cs",
+              "RelativeDocumentMoniker": "TP6_GRUPO_16\\MostrarProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\MostrarProductos.aspx.cs",
+              "RelativeToolTip": "TP6_GRUPO_16\\MostrarProductos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:50:46.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleccionarProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\SeleccionarProductos.aspx.cs",
+              "RelativeDocumentMoniker": "TP6_GRUPO_16\\SeleccionarProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\SeleccionarProductos.aspx.cs",
+              "RelativeToolTip": "TP6_GRUPO_16\\SeleccionarProductos.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:11:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio2.aspx",
+              "DocumentMoniker": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\Ejercicio2.aspx",
+              "RelativeDocumentMoniker": "TP6_GRUPO_16\\Ejercicio2.aspx",
+              "ToolTip": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\Ejercicio2.aspx",
+              "RelativeToolTip": "TP6_GRUPO_16\\Ejercicio2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-11T00:14:29.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\Inicio.aspx",
+              "RelativeDocumentMoniker": "TP6_GRUPO_16\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\Erika\\Downloads\\TP6_GRUPO_16\\TP6_GRUPO_16\\TP6_GRUPO_16\\Inicio.aspx",
+              "RelativeToolTip": "TP6_GRUPO_16\\Inicio.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-11T00:16:08.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
